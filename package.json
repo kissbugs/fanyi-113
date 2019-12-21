@@ -2,9 +2,9 @@
   "name": "fanyi-113",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "dist/main.js",
   "bin": {
-    "fy": "src/cli.ts"
+    "fy": "dist/cli.js"
   },
   "files": [
     "dist/**/*.js"
