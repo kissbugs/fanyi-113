@@ -4,7 +4,10 @@ usage likes:
  > npm i -g install fanyi-113
 
 terminal input:
+  1. english to chinese
   > fy hello => 你好
+
+  2. chinese to english
   > fy 你好 => Hello
 
 If you have the following problems during install:
