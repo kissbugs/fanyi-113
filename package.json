@@ -1,0 +1,26 @@
+{
+  "name": "fanyi-113",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "fy": "src/cli.ts"
+  },
+  "files": [
+    "dist/**/*.js"
+  ],
+  "scripts": {
+    "start": "ts-node-dev src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/md5": "^2.1.33",
+    "@types/node": "^12.12.21"
+  },
+  "dependencies": {
+    "commander": "^4.0.1",
+    "md5": "^2.2.1"
+  }
+}
