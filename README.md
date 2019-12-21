@@ -1,6 +1,8 @@
 usage likes:
  > npm i install fanyi-113
+
  or
+ 
  > npm i -g install fanyi-113
 
 terminal input:
