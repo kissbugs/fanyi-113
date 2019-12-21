@@ -23,3 +23,9 @@ you can try:
   > sudo chown -R $USER /usr/local/lib/node_modules
 
 and then reinstall
+
+----
+
+if you input: fy hello
+termial show: service close. 
+I have been disabled for access， Temporarily unavailable
